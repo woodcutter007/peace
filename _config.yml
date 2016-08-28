@@ -8,19 +8,19 @@ author:
   email: lay.1010@hotmail.com
   link: http://painterlin.com
   weibo: http://weibo.com/orangeissweet
-  github: http://github.com/lay1010
+  github: http://github.com/woodcutter007
   music: http://site.douban.com/linanya
   linkedin: https://www.linkedin.com/pub/anya-lin/81/91/232
 
 # 站点信息
-title: 林安亚的博客
+title: Woodcutter's Blog
 description: My personal blog
-url: https://woodcutter007.github.io/peace/
-rss_url: peace/pages/atom.xml
+url: https://woodcutter007.github.io/
+rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
-gavatar: peace/public/img/deer3.png
-favicon: peace/public/img/deer3.png
+gavatar: /public/img/deer3.png
+favicon: /public/img/deer3.png
 
 # google analytics 设置
 ga:
