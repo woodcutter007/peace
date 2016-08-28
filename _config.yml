@@ -4,13 +4,13 @@ markdown: redcarpet
 
 # 作者信息
 author: 
-  name: Anya Lin
-  email: lay.1010@hotmail.com
-  link: http://painterlin.com
-  weibo: http://weibo.com/orangeissweet
+  name: Peter Dong
+  email: dongleiwoailanse@163.com
+  link: http://woodcutter.com
+  weibo: 
   github: http://github.com/woodcutter007
-  music: http://site.douban.com/linanya
-  linkedin: https://www.linkedin.com/pub/anya-lin/81/91/232
+  music: 
+  linkedin: 
 
 # 站点信息
 title: Woodcutter's Blog
@@ -25,11 +25,11 @@ favicon: /public/img/deer3.png
 # google analytics 设置
 ga:
   id: UA-54262064-1 
-  url: painterlin.com
+  url: woodcutter.com
 
 # disqus 设置
 disqus:
-  shortname: painterlin
+  shortname: woodcutter
 
 # 主题设置，自动激活某个标签
 active: 读书
