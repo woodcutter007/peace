@@ -4,18 +4,18 @@ markdown: redcarpet
 
 # 作者信息
 author: 
-  name: peter Dong
-  email: 
-  link: 
-  weibo: 
-  github: 
-  music: 
-  linkedin: 
+  name: Anya Lin
+  email: lay.1010@hotmail.com
+  link: http://painterlin.com
+  weibo: http://weibo.com/orangeissweet
+  github: http://github.com/lay1010
+  music: http://site.douban.com/linanya
+  linkedin: https://www.linkedin.com/pub/anya-lin/81/91/232
 
 # 站点信息
-title: Woodcutter's Blog
+title: 林安亚的博客
 description: My personal blog
-url:
+url: https://woodcutter007.github.io/peace/
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
