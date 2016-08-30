@@ -15,7 +15,9 @@ author:
 # 站点信息
 title: Woodcutter's Blog
 description: My personal blog
-url: https://woodcutter007.github.io/
+#url: https://woodcutter007.github.io/
+url: https://woodcutter-bpi.cn
+enforce_ssl: woodcutter-bpi.cn
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
