@@ -21,13 +21,13 @@ enforce_ssl: woodcutter-bpi.cn
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
-gavatar: /public/img/deer3.png
-favicon: /public/img/deer3.png
+gavatar: /public/img/Popper.jpg
+favicon: /public/img/Popper.jpg
 
 # google analytics 设置
 ga:
   id: UA-54262064-1 
-  url: woodcutter.com
+  url: woodcutter-bpi.com
 
 # disqus 设置
 disqus:
@@ -37,9 +37,7 @@ disqus:
 active: 读书
 
 # 首页除了最新文章外显示分类
-cates: 
-  - Optimization
-  - LaTeX
+cates:
 
 # 中文本地化
 locals:
