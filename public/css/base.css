@@ -103,10 +103,10 @@ body, html {
   line-height: 1.42857143;
 }
 #content {
-  font-size: 18px;
+  font-size: 14px;
 }
 #content h2, h3 {
-  line-height: 2;
+  line-height: 1;
 }
 blockquote p {
   font-size: 20px;
