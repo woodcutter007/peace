@@ -7,10 +7,9 @@ author:
   name: Peter Dong
   email: dongleiwoailanse@163.com
   link: http://woodcutter-bpi.cn
-  weibo: 
+  weibo: http://weibo.com/u/2232544753/home?topnav=1&wvr=6
   github: http://github.com/woodcutter007
-  music: 
-  linkedin: 
+  music: https://www.douban.com/people/114172032/
 
 # 站点信息
 title: Woodcutter's Blog
@@ -18,7 +17,7 @@ description: My personal blog
 #url: https://woodcutter007.github.io/
 url: https://woodcutter-bpi.cn
 enforce_ssl: woodcutter-bpi.cn
-rss_url: /pages/atom.xml
+rss_url:
 
 # gavatar头像及Favicon
 gavatar: /public/img/Popper.jpg
@@ -31,13 +30,15 @@ ga:
 
 # disqus 设置
 disqus:
-  shortname: woodcutter
+  shortname: woodcutter-bpi-cn
 
 # 主题设置，自动激活某个标签
 active: 读书
 
 # 首页除了最新文章外显示分类
 cates:
+  - Optimization
+  - LaTeX
 
 # 中文本地化
 locals:
